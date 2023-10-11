@@ -21,13 +21,13 @@
     "IconUrl": "https://raw.githubusercontent.com/ArchiDog1998/RotationSolver/main/Images/Logo.png",
     "Punchline": "Analyses PvE combat information every frame and finds the best action.",
     "AcceptsFeedback": true,
-    "AssemblyVersion": "3.3.4",
+    "AssemblyVersion": "3.3.3",
     "Changelog": "3.3.6 (2023-10-11)\n\n\nBug Fixes\n\n* simplify warning. (3b03040)\n* warning manager. (e9efc0c)",
     "DownloadCount": "16267",
     "LastUpdate": 1697032723,
     "RepoUrl": "https://github.com/ArchiDog1998/RotationSolver",
-    "DownloadLinkInstall": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v3.3.4/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v3.3.4/latest.zip"
+    "DownloadLinkInstall": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v3.3.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v3.3.3/latest.zip"
   },
   {
     "Author": "ArchiTed, matrix",
