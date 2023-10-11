@@ -22,7 +22,7 @@
     "Punchline": "Analyses PvE combat information every frame and finds the best action.",
     "AcceptsFeedback": true,
     "AssemblyVersion": "3.3.3",
-    "Changelog": "3.3.6 (2023-10-11)\n\n\nBug Fixes\n\n* simplify warning. (3b03040)\n* warning manager. (e9efc0c)",
+    "Changelog": "3.3.3 (2023-10-11)\n\n\nBug Fixes\n\n* simplify warning. (3b03040)\n* warning manager. (e9efc0c)",
     "DownloadCount": "16267",
     "LastUpdate": 1697032723,
     "RepoUrl": "https://github.com/ArchiDog1998/RotationSolver",
